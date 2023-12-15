@@ -3,6 +3,10 @@
     "https://gist.github.com/d4312a0787456ec27a2a.git": [
       "https://gist.github.com/d4312a0787456ec27a2a.git",
       "1702610445048"
+    ],
+    "https://gist.github.com/5931b62a4f02216136583ec67dd993ff.git": [
+      "https://gist.github.com/5931b62a4f02216136583ec67dd993ff.git",
+      "1702610577642"
     ]
   },
   "studio-open-web": {},
@@ -25,6 +29,10 @@
     "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
       "https://gist.github.com/d4312a0787456ec27a2a.git",
       "helloWorld.groovy"
+    ],
+    "https://gist.github.com/5931b62a4f02216136583ec67dd993ff.git:BNO055Visualizer.groovy": [
+      "https://gist.github.com/5931b62a4f02216136583ec67dd993ff.git",
+      "BNO055Visualizer.groovy"
     ]
   },
   "BowlerStudioConfigs": {
