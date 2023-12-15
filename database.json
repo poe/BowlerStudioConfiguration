@@ -1,10 +1,29 @@
 {
   "workspace": {},
   "studio-open-web": {},
+  "katapult": {
+    "gameControllerNames": [
+      "Play",
+      "Game",
+      "X-Box",
+      "Dragon"
+    ],
+    "linkDeviceName": "dyio",
+    "robotName": "CarlTheWalkingRobot",
+    "robotGitFile": "CarlTheRobot.xml",
+    "robotGit": "https://github.com/madhephaestus/carl-the-hexapod.git"
+  },
+  "MenueSettings": {
+    "printCSG": true
+  },
   "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
-    "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/"
+    "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
+    "fontsize": 12,
+    "skinBranch": "2.9.4",
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
+    "notifiedArduinoDep": true
   }
 }
