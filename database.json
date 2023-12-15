@@ -1,5 +1,10 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://gist.github.com/d4312a0787456ec27a2a.git": [
+      "https://gist.github.com/d4312a0787456ec27a2a.git",
+      "1702610445048"
+    ]
+  },
   "studio-open-web": {},
   "katapult": {
     "gameControllerNames": [
@@ -16,7 +21,12 @@
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/d4312a0787456ec27a2a.git:helloWorld.groovy": [
+      "https://gist.github.com/d4312a0787456ec27a2a.git",
+      "helloWorld.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
